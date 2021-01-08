@@ -1,4 +1,4 @@
-# My maggi recipe
+# SandWhich
 
 So the recipe is a simple and healthy ,nutritious sandwhich.
 We will learn how to make a simple and Healthy,nutritious Sandwhich.
